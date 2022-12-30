@@ -1,13 +1,8 @@
-### Hi there 👋
 
-I'm Quinn, a Software Developer. I studied at Fordham University and graduated with a BS in Computer Science and Mathematics. I studied a range of topics like philosophy, film, and fiction. After my graduation, I enrolled in App Academy, a top coding camp, to expand my techincal knowledge and skills in web development. Over 4 months, I learned a plethora of skills including React/Redux, Ruby on Rails, JavaScript, PostgreSQL, MongoDB, and NodeJS. Besides learning technical skills, I met some of the nicest and most hardworking people, and learned how fun and productive collaborating with great people can be.   
-
-When I'm not coding, I like to play tennis, solve Rubik's Cubes as fast as I can, and read fiction. 
    
 Check out my...
 * [Website](https://mullaney.xyz)  
 * [LinkedIn](https://www.linkedin.com/in/quinntmullaney/)
-* [AngelList](https://angel.co/u/quinn-mullaney)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmullaney&layout=compact)](https://github.com/qmullaney/github-readme-stats)
 
@@ -25,4 +20,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋
+
+I'm Quinn, a Software Developer. I studied at Fordham University and graduated with a BS in Computer Science and Mathematics. I studied a range of topics like philosophy, film, and fiction. After my graduation, I enrolled in App Academy, a top coding camp, to expand my techincal knowledge and skills in web development. Over 4 months, I learned a plethora of skills including React/Redux, Ruby on Rails, JavaScript, PostgreSQL, MongoDB, and NodeJS. Besides learning technical skills, I met some of the nicest and most hardworking people, and learned how fun and productive collaborating with great people can be.   
+
+When I'm not coding, I like to play tennis, solve Rubik's Cubes as fast as I can, and read fiction. 
 -->
