@@ -4,9 +4,6 @@ Check out my...
 * [Website](https://mullaney.xyz)  
 * [LinkedIn](https://www.linkedin.com/in/quinntmullaney/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmullaney&layout=compact)](https://github.com/qmullaney/github-readme-stats)
-
-
 <!--
 **qmullaney/qmullaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
